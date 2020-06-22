@@ -1,0 +1,12 @@
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\bin\Debug\netcoreapp3.1\Auth.DataInfra.deps.json
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\bin\Debug\netcoreapp3.1\Auth.DataInfra.dll
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.AssemblyInfoInputs.cache
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.AssemblyInfo.cs
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.csprojAssemblyReference.cache
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\bin\Debug\netcoreapp3.1\Auth.DataInfra.runtimeconfig.json
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\bin\Debug\netcoreapp3.1\Auth.DataInfra.runtimeconfig.dev.json
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\bin\Debug\netcoreapp3.1\Auth.DataInfra.pdb
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.dll
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.pdb
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.genruntimeconfig.cache
+D:\LoginProvider\LoginManagementSystem\Auth.DataInfra\obj\Debug\netcoreapp3.1\Auth.DataInfra.csproj.CoreCompileInputs.cache
